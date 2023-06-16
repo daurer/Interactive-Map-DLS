@@ -1,0 +1,628 @@
+[
+  {
+    "name": "Macromolecular Crystallography",
+    "icon": "https://www.diamond.ac.uk/.resources/DiamondLightModule/webresources/img/icons/MXicon.png",
+    "beamlines": [
+      {
+        "name": "I04-1",
+        "url": "https://www.diamond.ac.uk/Instruments/Mx/I04-1.html",
+        "description": "High throughput and highly automated fixed wavelength SAD beamline for macromolecular crystallography.",
+        "id": "I04-1",
+        "label": "I04-1",
+        "desc": "Monochromatic MX",
+        "building": "Main building",
+        "level": "Ground floor",
+        "zone": "5",
+        "gridline": "33",
+        "ext": "8979",
+        "shape": "M3035.31 1374.82l285.02-19.92-6.25-27.7-25.14-10.54-254.32 50.61.69 7.55z",
+        "position": [
+          51.57522118290324,
+          -1.3105123043060305
+        ]
+      },
+      {
+        "name": "I03",
+        "url": "https://www.diamond.ac.uk/Instruments/Mx/I03.html",
+        "description": "High throughput and highly automated beamline for optimised MAD and SAD experiments. Capable of accepting CL3 type experiments on crystals of pathogens.",
+        "id": "I03",
+        "label": "I03",
+        "desc": "MX",
+        "building": "Main building",
+        "level": "Ground floor",
+        "zone": "5",
+        "gridline": "32",
+        "ext": "8707",
+        "shape": "M2875.72,1373.27l232.74-115.73,96,23-325.35,99Z",
+        "position": [
+          51.57525718986721,
+          -1.3108062744140627
+        ]
+      },
+      {
+        "name": "I23",
+        "url": "https://www.diamond.ac.uk/Instruments/Mx/I23.html",
+        "description": "A unique facility for solving the crystallographic phase problem, using the small anomalous signals from sulphur or phosphorous which are present in native protein or RNA/DNA crystals. Additionally, anomalous difference Fourier maps can be used to locate sulphur and phosphorous positions to assist model building at low resolution and/or identify lighter atoms such as chlorine, potassium and calcium.",
+        "id": "I23",
+        "label": "I23",
+        "desc": "Long Wavelength MX",
+        "building": "Main building",
+        "level": "Ground floor",
+        "zone": "3",
+        "gridline": "18",
+        "ext": "7406",
+        "shape": "M2401.25,1764.08l-14.77-2.06,1.37-48.08,8.24.69L2408.46,1515l53.46-59.74L2417,1698.49Z",
+        "position": [
+          51.57486911481108,
+          -1.3121280670166018
+        ]
+      },
+      {
+        "name": "I04",
+        "url": "https://www.diamond.ac.uk/Instruments/Mx/I04.html",
+        "description": "Variable focus from 5 to 100 microns, high throughput and highly automated beamline for optimised MAD and SAD experiments.",
+        "id": "I04",
+        "label": "I04",
+        "desc": "Microfocus MX",
+        "building": "Main building",
+        "level": "Ground floor",
+        "zone": "5",
+        "gridline": "35",
+        "ext": "8708",
+        "shape": "M2944.23,1359.64l260.22-79.05,30.37,17.81,2.74,19.23-204.66,42.93-83.79,14.07Z",
+        "position": [
+          51.57524518754589,
+          -1.310696840286255
+        ]
+      },
+      {
+        "name": "MPL",
+        "url": "https://www.diamond.ac.uk/Instruments/Mx/MPL.html",
+        "description": "The Membrane Protein Lab (MPL) at Diamond is a research and training facility for scientists interested in solving the 3D structures of membrane proteins by X-ray crystallography.",
+        "id": "MPL",
+        "label": "MPL",
+        "desc": "Membrane Protein Laboratory",
+        "building": "Research Complex R92",
+        "level": "First floor",
+        "room": "",
+        "zone": "",
+        "gridline": "",
+        "ext": "",
+        "shape": "M1841.66,2117.26l-6.9,22.74-162.07-36.71-6.9-31.77-62.07,45.74c46.14-250.53,132.51-461,265.52-625l58.62,36.72-24.14,28.47,115,63.48L1877,1820.68l84.17,25.43-64.37,283.34Z",
+        "position": [
+          51.5745943950119,
+          -1.313443422317505
+        ]
+      },
+      {
+        "name": "I24",
+        "url": "https://www.diamond.ac.uk/Instruments/Mx/I24.html",
+        "description": "High throughput variable microfocus beamline for optimised MAD and SAD experiments on crystals down a few microns in size.",
+        "id": "I24",
+        "label": "I24",
+        "desc": "Microfocus MX",
+        "building": "Main building",
+        "level": "Ground floor",
+        "zone": "3",
+        "gridline": "19",
+        "ext": "8950",
+        "shape": "M2479.45 1626.74l119.87-243.57-13.39-7.65-40.8 29.96-73.33 219.35 7.65 1.91z",
+        "position": [
+          51.575014476258225,
+          -1.3118877410888674
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Soft Condensed Matter",
+    "icon": "https://www.diamond.ac.uk/.resources/DiamondLightModule/webresources/img/icons/SCMIcon.png",
+    "beamlines": [
+      {
+        "name": "I22",
+        "url": "https://www.diamond.ac.uk/Instruments/Soft-Condensed-Matter/I22.html",
+        "description": "I22 is a multifunction SAXS/WAXS beamline for the physical and life sciences. Small-angle scattering provides essential information on the structure and dynamics of large molecular assemblies in low ordered environments. Working in both transmission and grazing incidence with full and microfocus beam I22 provides a working platform for studying the full range of soft matetr systems.",
+        "id": "I22",
+        "label": "I22",
+        "desc": "Small Angle Scattering and Diffraction",
+        "building": "Main building",
+        "level": "Ground floor",
+        "zone": "2",
+        "gridline": "12",
+        "ext": "8713",
+        "shape": "M2348.57 1931.49l-6.6-31.47 7.38-1.64-42.35-214.89 15.62-35.32 21.81.08 18.86 280.47-14.72 2.77z",
+        "position": [
+          51.57462906838461,
+          -1.3123190402984621
+        ]
+      },
+      {
+        "name": "B22",
+        "url": "https://www.diamond.ac.uk/Instruments/Soft-Condensed-Matter/B22.html",
+        "description": "MIRIAM (Multimode InfraRed Imaging And Microspectroscopy) provides a brilliant and versatile microprobe for high resolution imaging of molecular structures as well as high sensitivity vibrational spectroscopy via FTIR up to the THz range. Experiments span from biomedical applications to physical-chemical researches.",
+        "id": "B22",
+        "label": "B22",
+        "desc": "MIRIAM: Multimode InfraRed Imaging And Mircrospectroscopy",
+        "building": "Main building",
+        "level": "Ground floor",
+        "zone": "2",
+        "gridline": "12",
+        "ext": "8684/8685",
+        "shape": "M2367.91 1859.94l-12.62-222.69 35.71 1.37-4.81 123.63-9.96 97.52-8.32.17z",
+        "position": [
+          51.574683745626196,
+          -1.3122375011444094
+        ]
+      },
+      {
+        "name": "B21",
+        "url": "https://www.diamond.ac.uk/Instruments/Soft-Condensed-Matter/B21.html",
+        "description": "B21 is a bending magnet Small Angle X-ray Scattering (SAXS) beamline primarily focused on dilute solution state systems.",
+        "id": "B21",
+        "label": "B21",
+        "desc": "High Throughput SAXS",
+        "building": "Main building",
+        "level": "Ground floor",
+        "zone": "2",
+        "gridline": "8",
+        "ext": "8627",
+        "shape": "M2347.94 2019.24l-8.92-25.75 7.55-3.43-75.55-212.23 13.74-43.26 24.04 10.99 39.83 185.43 14.08 84.82-14.77 3.43z",
+        "position": [
+          51.574513045945146,
+          -1.3123576641082766
+        ]
+      },
+      {
+        "name": "B23",
+        "url": "https://www.diamond.ac.uk/Instruments/Soft-Condensed-Matter/B23.html",
+        "description": "B23 is a life sciences, chemistry and material science beamline for investigating and observing structural, functional and dynamic interactions in elements such as proteins, nucleic acids, nanoparticles and chiral molecules.",
+        "id": "B23",
+        "label": "B23",
+        "desc": "Circular Dichroism",
+        "building": "Main building",
+        "level": "Ground floor",
+        "zone": "3",
+        "gridline": "17",
+        "ext": "8889",
+        "shape": "M2433.47,1702.77l-16.14-4.47,44.59-243.08,74.61-60.8-72.15,226.28Z",
+        "position": [
+          51.57495046387783,
+          -1.3120143413543703
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Imaging and Microscopy",
+    "icon": "https://www.diamond.ac.uk/.resources/DiamondLightModule/webresources/img/icons/ImagingIcon.png",
+    "beamlines": [
+      {
+        "name": "DIAD",
+        "url": "https://www.diamond.ac.uk/Instruments/Imaging-and-Microscopy/DIAD.html",
+        "description": "DIAD will be the a dual beam instrument capable of imaging and diffraction at the same time at the micron scale. The beamline will enable in-situ experiments aiming to resolve the 3D microstructure (via imaging) and phase constitution/strain state of material (via diffraction) in quasi-simultaneously matter with switching times of a few Hz between analysis techniques.",
+        "id": "K11",
+        "label": "DIAD",
+        "desc": "Dual Imaging and Diffraction",
+        "building": "Main building",
+        "level": "Ground floor",
+        "zone": "9",
+        "gridline": "66",
+        "ext": "01235 (3) 94121",
+        "shape": "M3534.47 2272.5l15.79 4.86-47.15 254.24-79.89 67.95 111.25-327.05z",
+        "position": [
+          51.573767568431826,
+          -1.3098471164703371
+        ]
+      },
+      {
+        "name": "I08",
+        "url": "https://www.diamond.ac.uk/Instruments/Imaging-and-Microscopy/I08.html",
+        "description": "Scanning X-ray Microscopy with variety of imaging and spectomicroscopy modes: Transmission incl. absorption and phase-sensitive contrasts, and X-ray fluorescence.",
+        "id": "I08",
+        "label": "I08",
+        "desc": "Scanning X-ray Microscopy",
+        "building": "Main building",
+        "level": "Ground floor",
+        "zone": "7",
+        "gridline": "50",
+        "ext": "8201",
+        "shape": "M3543.7 1730.25l12.67-10.01 164.79 188.13 1.33 52.71-16.01 12.67-162.78-243.5z",
+        "position": [
+          51.57455305368289,
+          -1.3095338344573977
+        ]
+      },
+      {
+        "name": "I14",
+        "url": "https://www.diamond.ac.uk/Instruments/Imaging-and-Microscopy/I14.html",
+        "description": "The Hard X-ray nanoprobe I14 beamline is a dedicated facility for nanoscale microscopy. The central theme of the beamline is the ability to obtain structural and chemically-specific information on a full range of materials (inorganic/organic) under both static and real (e.g. wet, heated, in-situ strain) conditions.",
+        "id": "I14",
+        "label": "I14",
+        "desc": "Hard X-ray Nanoprobe",
+        "building": "I14 External Building",
+        "level": "Ground floor",
+        "zone": "10",
+        "gridline": "83",
+        "ext": "7506",
+        "shape": "M3246.08,2571.47l-748.36,593.71,63,104.62-323.47,198.57-124.91-200.7L2436,3072.08l35.91,54.82,764.55-567.11Z",
+        "position": [
+          51.572996752684595,
+          -1.3115808963775637
+        ]
+      },
+      {
+        "name": "I13",
+        "url": "https://www.diamond.ac.uk/Instruments/Imaging-and-Microscopy/I13.html",
+        "description": "I13 is Diamond's longest beamline, dedicated to imaging, tomographic and coherence experiments across the biological, medical, geological, material, engineering and archealogical sciences.",
+        "id": "I13",
+        "label": "I13",
+        "desc": "X-ray Imaging and Coherence",
+        "building": "I13 External Building",
+        "level": "Ground floor",
+        "zone": "10",
+        "gridline": "75",
+        "ext": "8831",
+        "shape": "M3370.37,2477.73l12.37,8.93-28.68,46-7.21-5.67-53.57,86.54-697.34,842,64,45.9-150.52,201.77-132.38-100.35,149.46-197.5,40.56,28.83L3267,2595.52l56.66-68.34Z",
+        "position": [
+          51.57289539974898,
+          -1.311149597167969
+        ]
+      },
+      {
+        "name": "I12",
+        "url": "https://www.diamond.ac.uk/Instruments/Imaging-and-Microscopy/I12.html",
+        "description": "I12 is a high-energy beamline principally for Material Science, Engineering and Processing Science. The instrument's main focus is to allow in situ studies of samples in environments as close as possible to real world environments using imaging, tomography, diffraction and small-angle scattering. I12 is particularly well suited to study large or dense objects and offers a unique sample and environment installation facility for weights up to 2000 kg.",
+        "id": "I12",
+        "label": "I12",
+        "desc": "JEEP: Joint Engineering, Environmental and Processing",
+        "building": "Main building",
+        "level": "Ground floor",
+        "zone": "9",
+        "gridline": "68",
+        "ext": "7465",
+        "shape": "M3504.28 2352.95l-105.77 315.59 8.25 17.86-69.37 177.19-33.65 12.36-55.63-20.6-13.74-34.34 27.47-68.68 48.76-18.55 147.67-325.88 32.28-60.44 13.73 5.49z",
+        "position": [
+          51.573532856370385,
+          -1.310100317001343
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Biological Cryo-Imaging",
+    "icon": "https://www.diamond.ac.uk/.resources/DiamondLightModule/webresources/img/icons/BioCryo.png",
+    "beamlines": [
+      {
+        "name": "eBIC",
+        "url": "https://www.diamond.ac.uk/Instruments/Biological-Cryo-Imaging/eBIC.html",
+        "description": "eBIC provides scientists with state-of-the-art experimental equipment and expertise in the field of cryo-electron microscopy, for both single particle analysis and cryo-tomography. Currently eBIC houses four Titan Krios microscopes, a Talos Arctica, an Aquilos cryo-FIB/SEM and a cryo-CLEM microscope.",
+        "id": "eBIC",
+        "label": "eBIC / ePSIC",
+        "desc": "eBIC / ePSIC",
+        "building": "I14",
+        "level": "Ground floor",
+        "room": "",
+        "zone": "",
+        "gridline": "",
+        "ext": "",
+        "shape": "M2237.24,3468.37l-124.91-200.7L2436,3072.08l124.71,197.72Z",
+        "position": [
+          51.5726553533225,
+          -1.3123147487640383
+        ]
+      },
+      {
+        "name": "B24",
+        "url": "https://www.diamond.ac.uk/Instruments/Biological-Cryo-Imaging/B24.html",
+        "description": "B24 is the full-field transmission microscope at Diamond designed specifically to meet the rising demand for tomographic imaging of biological specimens under near physiological conditions.",
+        "id": "B24",
+        "label": "B24",
+        "desc": "Cryo Transmission X-ray Microscopy (TXM)",
+        "building": "Main building",
+        "level": "Ground floor",
+        "zone": "3",
+        "gridline": "20",
+        "ext": "7499",
+        "shape": "M2510.68 1567.64l123.96-232.49 22.67-7.55 20.6 13.74-57.69 83.1 10.99 8.93-35.71 39.83-7.22 14.77-62.84 87.57-14.76-7.9z",
+        "position": [
+          51.575079822229874,
+          -1.3117632865905764
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Magnetic Materials",
+    "icon": "https://www.diamond.ac.uk/.resources/DiamondLightModule/webresources/img/icons/Magnetic.png",
+    "beamlines": [
+      {
+        "name": "I16",
+        "url": "https://www.diamond.ac.uk/Instruments/Magnetic-Materials/I16.html",
+        "description": "The Materials and Magnetism beamline provides a unique, world-class single crystal X-ray diffraction facility for studying a diverse range of materials.",
+        "id": "I16",
+        "label": "I16",
+        "desc": "Materials and Magnetism",
+        "building": "Main building",
+        "level": "Ground floor",
+        "zone": "12",
+        "gridline": "84",
+        "ext": "8711",
+        "shape": "M2931.24 2624.49l-37.44 7.21-2.74-9.61-232.83 45.33-78.98-43.96 281.24-10.99 68.69-3.43 2.06 15.45z",
+        "position": [
+          51.573498182997675,
+          -1.3114178180694582
+        ]
+      },
+      {
+        "name": "I06",
+        "url": "https://www.diamond.ac.uk/Instruments/Magnetic-Materials/I06.html",
+        "description": "I06 is a polarised spectroscopy and microscopy beamline equipped with a PEEM, 6 T low temperature (1.5 K) superconducting magnet, 2 T vector magnet as well as soft X-ray diffraction vacuum goniometer.",
+        "id": "I06",
+        "label": "I06",
+        "desc": "Nanoscience",
+        "building": "Main building",
+        "level": "Ground floor",
+        "zone": "6",
+        "gridline": "44",
+        "ext": "8709",
+        "shape": "M3352.74,1474.88l107.83,34.34,12.36-30.22,65.62,13.18,71.74,91.22,30.22,62.5-293.26-157.62Z",
+        "position": [
+          51.57493579437399,
+          -1.3098320960998537
+        ]
+      },
+      {
+        "name": "I10",
+        "url": "https://www.diamond.ac.uk/Instruments/Magnetic-Materials/I10.html",
+        "description": "I10 is a beamline for the study of electronic and magnetic structure using soft X-ray resonant scattering (reflection and diffraction) and X-ray absorption. It allows a broad range of studies focused on the spectroscopic properties and magnetic ordering of novel nanostructured systems",
+        "id": "I10",
+        "label": "I10",
+        "desc": "BLADE: Beamline for Advanced Dichroism Experiments",
+        "building": "Main building",
+        "level": "Ground floor",
+        "zone": "8",
+        "gridline": "60",
+        "ext": "7473",
+        "shape": "M3615.68 2054.56l29.19 127.75 53.57 16.48-47.39 131.18-31.59-1.37-18.55-273.01 14.77-1.03z",
+        "position": [
+          51.57409296469882,
+          -1.3094973564147951
+        ]
+      },
+      {
+        "name": "I21",
+        "url": "https://www.diamond.ac.uk/Instruments/Magnetic-Materials/I21.html",
+        "description": "I21 is a dedicated Resonant Inelastic X-ray Scattering (RIXS) beamline that provides a highly monochromatised, focused and tunable X-ray beam onto materials, while detecting and energy-analysing scattered X-rays using a spatially-resolved two-dimensional detector.",
+        "id": "I21",
+        "label": "I21",
+        "desc": "Inelastic X-ray Scattering",
+        "building": "I21 External Building",
+        "level": "Ground floor",
+        "zone": "2",
+        "gridline": "10",
+        "ext": "8444",
+        "shape": "M2370,2089.94l-24.93,10.68-25-31.24,8.93-8.24-28.16-36.4,10.31-8.24-24-30.91,5.49-4.12-52.19-65,4.65-34.59-42.84-6.46-141.81-23.26c18.85-92,50.15-192.82,87.62-271.41l127.66,67,9.07,86.81L2271,1777.83l75.55,212.23-7.55,3.43Z",
+        "position": [
+          51.57456105523044,
+          -1.3125765323638918
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Structures and Surfaces",
+    "icon": "https://www.diamond.ac.uk/.resources/DiamondLightModule/webresources/img/icons/StructuresSurfaces.png",
+    "beamlines": [
+      {
+        "name": "I07",
+        "url": "https://www.diamond.ac.uk/Instruments/Structures-and-Surfaces/I07.html",
+        "description": "I07 is a high-resolution X-ray diffraction beamline for investigating the structure of surfaces and interfaces under different environmental conditions, including, for example, semiconductors and biological films.",
+        "id": "I07",
+        "label": "I07",
+        "desc": "Surface and Interface Diffraction",
+        "building": "Main building",
+        "level": "Ground floor",
+        "zone": "7",
+        "gridline": "48",
+        "ext": "8201",
+        "shape": "M3469.21 1584l214.63 137.36 28.15 111.27-250.68-236.61 7.9-12.02z",
+        "position": [
+          51.57473842286778,
+          -1.3096325397491457
+        ]
+      },
+      {
+        "name": "B07",
+        "url": "https://www.diamond.ac.uk/Instruments/Structures-and-Surfaces/B07.html",
+        "description": "B07 will be a highly versatile soft x-ray beamline for NEXAFS/XPS suitable for studies of heterogenous catalysis, pharmaceuticals & biomaterials under realistic conditions, electronic & photonic materials, atmospheric & space science on liquids/ices and heritage conservation.",
+        "id": "B07",
+        "label": "B07",
+        "desc": "VERSOX: Versatile Soft X-ray",
+        "building": "Main building",
+        "level": "Ground floor",
+        "zone": "7",
+        "gridline": "48",
+        "ext": "8350",
+        "shape": "M3712.37 1832.14l-.05 14.4-23.35 24.01-188.13-216.15 11.34-11.34 200.19 189.08z",
+        "position": [
+          51.57467307689613,
+          -1.3095896244049074
+        ]
+      },
+      {
+        "name": "I09",
+        "url": "https://www.diamond.ac.uk/Instruments/Structures-and-Surfaces/I09.html",
+        "description": "I09 is designed to provide both soft and hard X-rays for high-resolution studies of atomic and electronic structures of surfaces and interfaces using photoelectron spectroscopy, near edge X-ray absorption fine structure, X-ray standing waves and photoelectron diffraction.",
+        "id": "I09",
+        "label": "I09",
+        "desc": "SISA: Surface and Interface Structural Analysis",
+        "building": "Main building",
+        "level": "Ground floor",
+        "zone": "8",
+        "gridline": "55",
+        "ext": "8300",
+        "shape": "M3610.15 1892.71l107.83 226.3-15.11 66.62-23.67-7.47-81.76-279.27 12.71-6.18z",
+        "position": [
+          51.57429700416132,
+          -1.3094801902770998
+        ]
+      },
+      {
+        "name": "I05",
+        "url": "https://www.diamond.ac.uk/Instruments/Structures-and-Surfaces/I05.html",
+        "description": "I05-ARPES is a facility dedicated to the study of electronic structures of solids and their surfaces by Angle-Resolved Photoemission Spectroscopy (ARPES). The ultra-high vacuum low temperature high resolution ARPES end station is served by an intense, highly monochromatic VUV to XUV photon beam from a variable polarisation Apple II undulator.",
+        "id": "I05",
+        "label": "I05",
+        "desc": "ARPES",
+        "building": "Main building",
+        "level": "Ground floor",
+        "zone": "6",
+        "gridline": "37",
+        "ext": "8651",
+        "shape": "M3209.08 1413.78l65.59 15.11-1.37 5.49 182 63.88 21.98-63.19-19.23-11.68-249.31-18.54.34 8.93z",
+        "position": [
+          51.575079822229874,
+          -1.3101561069488528
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Crystallography",
+    "icon": "https://www.diamond.ac.uk/.resources/DiamondLightModule/webresources/img/icons/crystallography.png",
+    "beamlines": [
+      {
+        "name": "I11",
+        "url": "https://www.diamond.ac.uk/Instruments/Crystallography/I11.html",
+        "description": "I11 is a high resolution powder diffraction beamline for structural crystallography using an undulator source. This beamline specialises in investigating the structure of complex materials, including metal-organic frameworks, high temperature superconductors, ceramics, alloys, zeolites and minerals under non-ambient, time-resolved, and long duration conditions.",
+        "id": "I11",
+        "label": "I11",
+        "desc": "High Resolution Powder Diffraction",
+        "building": "Main building",
+        "level": "Ground floor",
+        "zone": "9",
+        "gridline": "64",
+        "ext": "8906",
+        "shape": "M3579.79 2210.03l-24.04 258.24-41.21-4.12 35.03-187.84 15.45-67.3 14.77 1.02z",
+        "position": [
+          51.57389692678387,
+          -1.3097183704376223
+        ]
+      },
+      {
+        "name": "I15-1",
+        "url": "https://www.diamond.ac.uk/Instruments/Crystallography/I15-1.html",
+        "description": "XPDF (I15-1) is a dedicated X-ray Pair Distribution Function beamline. The pair distribution function allows researchers in fields as diverse as materials chemistry; solid-state physics; eartch science; and pharmaceuticals to gain insight into the local structure of crystalline, amorphous, and liquid materials both ex situ and in situ .",
+        "id": "I15-1",
+        "label": "I15-1",
+        "desc": "X-ray Pair Distribution Function (XPDF)",
+        "building": "Main building",
+        "level": "Ground floor",
+        "zone": "11",
+        "gridline": "78",
+        "ext": "8144",
+        "shape": "M3016 2610.26l4.77 15.25-13.73 4.49 1.63 6.19-19.85 8.84-13.21-27.48 40.39-7.29z",
+        "position": [
+          51.57351151891026,
+          -1.3108963966369631
+        ]
+      },
+      {
+        "name": "I19",
+        "url": "https://www.diamond.ac.uk/Instruments/Crystallography/I19.html",
+        "description": "I19 is a high-flux tunable-wavelength facility for the study of small-molecule systems by single-crystal X-ray diffraction techniques. The beamline supports a variety of techniques to allow the structural change of systems to be mapped under the influence of an external effect (such as pressure, temperature, photoexcitation or gas exchange).",
+        "id": "I19",
+        "label": "I19",
+        "desc": "Small-Molecule Single-Crystal Diffraction",
+        "building": "Main building",
+        "level": "Ground floor",
+        "zone": "1",
+        "gridline": "95",
+        "ext": "8418",
+        "shape": "M2503.43 2388.43l-9.27 12.02-53.23-35.71 4.12-6.87-158.65-104.4-13.05-41.89 10.99-15.11 168.61 145.26 50.48 46.7z",
+        "position": [
+          51.57395160402545,
+          -1.3122053146362307
+        ]
+      },
+      {
+        "name": "I15",
+        "url": "https://www.diamond.ac.uk/Instruments/Crystallography/I15-Extreme.html",
+        "description": "I15, the extreme conditions beamline, is a high energy diffraction and scattering beamline used to explore planetary interior conditions, as well as other experiments requiring high pressures and non-ambient temperatures.",
+        "id": "I15",
+        "label": "I15",
+        "desc": "Extreme Conditions",
+        "building": "Main building",
+        "level": "Ground floor",
+        "zone": "11",
+        "gridline": "80",
+        "ext": "8710",
+        "shape": "M3091.86 2619.01l-236.6 105.77-19.23-47.39-70.74 30.9-16.48-38.46 230.76-43.27 8.92 18.49 19.84-8.83-1.62-6.2 13.73-4.49 65.59-20.26 5.83 13.74z",
+        "position": [
+          51.5734621760337,
+          -1.3110637664794924
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Spectroscopy",
+    "icon": "https://www.diamond.ac.uk/.resources/DiamondLightModule/webresources/img/icons/Spectroscopy.png",
+    "beamlines": [
+      {
+        "name": "I18",
+        "url": "https://www.diamond.ac.uk/Instruments/Spectroscopy/I18.html",
+        "description": "\u00b5X-ray absorption spectroscopy, \u00b5X-ray fluorescence imaging and \u00b5diffraction using high-brightness focused X-ray beam. Other techniques available include X-ray Excited Optical Luminescence (XEOL), X-ray Fluorescence Tomography, Fluorescence ReflEXAFS, Differential Phase Contrast Imaging.",
+        "id": "I18",
+        "label": "I18",
+        "desc": "Microfocus Spectroscopy",
+        "building": "Main building",
+        "level": "Ground floor",
+        "zone": "12",
+        "gridline": "91",
+        "ext": "8712",
+        "shape": "M2611.39 2509.66l-47.39-15.11.69-7.55-189.56-63.19-18.54-27.47 9.61-23.35 190.59 91.69 60.44 31.25-5.84 13.73z",
+        "position": [
+          51.573760900475534,
+          -1.3119928836822512
+        ]
+      },
+      {
+        "name": "B18",
+        "url": "https://www.diamond.ac.uk/Instruments/Spectroscopy/B18.html",
+        "description": "B18 is a general purpose EXAFS beamline. The Core-EXAFS is used for an extensive range of studies and applications, including local structure and electronic state of active components, and the study of materials including fluids, crystalline and non-crystalline (amorphous phases & colloids) solids, surfaces and biomaterials.",
+        "id": "B18",
+        "label": "B18",
+        "desc": "Core XAS",
+        "building": "Main building",
+        "level": "Ground floor",
+        "zone": "1",
+        "gridline": "94",
+        "ext": "8695",
+        "shape": "M2565.28 2449.59l-8.59 14.76-190.58-91.69-37.78-16.48-41.89-102.33 158.65 104.39-4.12 6.87 53.23 35.71 71.08 48.77z",
+        "position": [
+          51.573870254958706,
+          -1.312123775482178
+        ]
+      },
+      {
+        "name": "I20",
+        "url": "https://www.diamond.ac.uk/Instruments/Spectroscopy/I20.html",
+        "description": "I20 now covers two very distinctive modes of operation: X-ray Absorption Spectroscopy (XAS) on challenging samples, X-ray Emission Spectroscopy (XES). The beamline is equipped with a wiggler for the scanning branchline (I20-scanning). The Energy Dispersive branch has been closed.",
+        "id": "I20",
+        "label": "I20",
+        "desc": "LOLA: Versatile X-ray Spectroscopy",
+        "building": "Main building",
+        "level": "Ground floor",
+        "zone": "1",
+        "gridline": "4",
+        "ext": "8411",
+        "shape": "M2409.01 2263.4l-40.86-44.98 6.18-5.5-35.03-39.83 10.99-8.24-27.47-33.65-10.3 8.24-70.74-87.23v-18.54l21.29-10.99 1.37-20.6-24.03-25.42.68-16.48 20.61-17.17 30.9 38.46-5.49 4.12 24.04 30.91-10.31 8.24 28.16 36.4-8.93 8.24 18.55 22.67 18.54 24.72 15.11 32.97-11.67 10.3 24.03 36.06 36.75 58.03-12.37 9.27z",
+        "position": [
+          51.5742116543208,
+          -1.3123276233673098
+        ]
+      }
+    ]
+  }
+]
