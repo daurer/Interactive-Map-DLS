@@ -1,0 +1,16 @@
+body {
+    /* Remove border from page to make map full screen */
+    background-color: rgb(200, 0, 0);
+}
+
+p {
+    font-style: italic;
+}
+
+#header2 {
+    color: blue;
+}
+
+#div1 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
