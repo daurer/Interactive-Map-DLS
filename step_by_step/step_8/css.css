@@ -1,0 +1,12 @@
+body {
+    /* Remove border from page to make map full screen */
+    background-color: beige;
+}
+
+#header2 {
+    color: black;
+}
+
+#div1 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
