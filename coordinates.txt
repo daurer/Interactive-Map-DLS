@@ -1,0 +1,11 @@
+# The cetnre location of Diamond
+# Latitude, Longitude
+51.574349, -1.310892
+
+# The north-east boundary of Diamond
+# Latitude, Longitude
+51.57168183170403, -1.3173294067382815
+
+# The south-west boundary of Diamond
+# Latitude, Longitude
+51.57701619673675, -1.304454803466797
